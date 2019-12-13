@@ -8,7 +8,8 @@ In this project i have coding on the basis of topics from get started to advance
 
 ### Prerequisites
 
-install python at first
+install python at first. After installing python. Start the coding.Python
+First hello world python code:
 
 ```
 print("Hello World")
@@ -70,6 +71,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* thanks
 * Inspiration
 * etc
