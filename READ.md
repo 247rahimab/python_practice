@@ -11,7 +11,7 @@ In this project i have coding on the basis of topics from get started to advance
 install python at first
 
 ```
-Give examples
+print("Hello World")
 ```
 
 ### Installing
@@ -21,32 +21,22 @@ A step by step series of examples that tell you how to get a development env run
 Several steps are followed
 
 ```
-Give the example
+Go to python.org website and install latest version
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Testing the scripts will be shown
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
 ```
-Give an example
+Example: testing on python scripts
 ```
 
 ### And coding style tests
 
-Explain what these tests test and why
+Some important features
 
 ```
 Give an example
