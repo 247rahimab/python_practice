@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+#-*- coding:cp1252 -*-
+
 # (single line comments)  This is the comments
 """
 #multi line comments are here
@@ -23,4 +26,4 @@ multiple variable x, y, z
 """
 name, roll, age = "abdur rahim", 425, 29
 
-
+print(name, roll, age)
